@@ -16,29 +16,33 @@ MonoBehaviour:
   - pbIconGUI
   - pbGrowSelectionUsingAngle
   - pbGrowSelectionAngleIterative
+  - pbDefaultOpenInDockableWindow
   m_Int_keys:
   - pbHandleAlignment
   - pbDefaultEditLevel
   - pbDefaultSelectionMode
   - pbVertexColorTool
   - pb_GIWorkflowMode
+  - pbExtrudeMethod
   m_Float_keys:
   - pbEditorScroll.x
   - pbEditorScroll.y
   - pbGrowSelectionAngle
+  - pbExtrudeDistance
   m_String_keys:
   - pbVertexColorPrefs1
   - pbVertexColorPrefs6
   m_Color_keys: []
   m_Material_keys: []
-  m_Bool_values: 01010100
-  m_Int_values: 0000000001000000010000000000000000000000
+  m_Bool_values: 0001010001
+  m_Int_values: 020000000000000002000000000000000000000001000000
   m_Float_values:
   - 0
   - 0
   - 42
+  - 0.5
   m_String_values:
-  - RGBA(1.000, 0.488, 0.000, 1.000)
+  - RGBA(0.809, 0.548, 0.271, 1.000)
   - RGBA(0.074, 0.074, 0.074, 1.000)
   m_Color_values: []
   m_Material_values: []
